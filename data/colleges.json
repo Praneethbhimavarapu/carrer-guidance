@@ -1,0 +1,7954 @@
+[
+  {
+    "id": "c1",
+    "name": "IIT Kharagpur",
+    "type": "IIT",
+    "location": {
+      "city": "Kharagpur",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 29.203800766014663,
+        "lng": 79.12393529624418
+      }
+    },
+    "nirf_rank": 1,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "ECE",
+      "Civil",
+      "Metallurgy",
+      "CSE",
+      "Aerospace",
+      "Biotech",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 100,
+      "ECE_general": 500
+    },
+    "avg_package_lpa": 26,
+    "highest_package_lpa": 90,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitkharagpur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c2",
+    "name": "IIT Mumbai",
+    "type": "IIT",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 28.21470253414045,
+        "lng": 75.85209250270354
+      }
+    },
+    "nirf_rank": 2,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Metallurgy",
+      "CSE",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 300,
+      "ECE_general": 800
+    },
+    "avg_package_lpa": 22,
+    "highest_package_lpa": 124,
+    "placement_rate_pct": 99,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitmumbai.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c3",
+    "name": "IIT Chennai",
+    "type": "IIT",
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 25.582647341512157,
+        "lng": 84.67251481783931
+      }
+    },
+    "nirf_rank": 3,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Metallurgy",
+      "CSE",
+      "Aerospace",
+      "Civil",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 500,
+      "ECE_general": 1100
+    },
+    "avg_package_lpa": 23,
+    "highest_package_lpa": 147,
+    "placement_rate_pct": 95,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitchennai.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c4",
+    "name": "IIT Kanpur",
+    "type": "IIT",
+    "location": {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 22.315310364262,
+        "lng": 82.15511801671258
+      }
+    },
+    "nirf_rank": 4,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Aerospace",
+      "IT",
+      "EEE",
+      "Civil",
+      "ECE",
+      "Chemical",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 700,
+      "ECE_general": 1400
+    },
+    "avg_package_lpa": 20,
+    "highest_package_lpa": 131,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitkanpur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c5",
+    "name": "IIT New Delhi",
+    "type": "IIT",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 20.474255931591404,
+        "lng": 84.98471949822665
+      }
+    },
+    "nirf_rank": 5,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "EEE",
+      "IT",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 900,
+      "ECE_general": 1700
+    },
+    "avg_package_lpa": 29,
+    "highest_package_lpa": 165,
+    "placement_rate_pct": 98,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitnewdelhi.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c6",
+    "name": "IIT Guwahati",
+    "type": "IIT",
+    "location": {
+      "city": "Guwahati",
+      "state": "Assam",
+      "coordinates": {
+        "lat": 20.04550702770321,
+        "lng": 84.77662464803846
+      }
+    },
+    "nirf_rank": 6,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "ECE",
+      "Chemical",
+      "Metallurgy",
+      "Biotech",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1100,
+      "ECE_general": 2000
+    },
+    "avg_package_lpa": 23,
+    "highest_package_lpa": 85,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitguwahati.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c7",
+    "name": "IIT Roorkee",
+    "type": "IIT",
+    "location": {
+      "city": "Roorkee",
+      "state": "Uttarakhand",
+      "coordinates": {
+        "lat": 22.20072532138817,
+        "lng": 77.09877377622266
+      }
+    },
+    "nirf_rank": 7,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Civil",
+      "IT",
+      "Biotech",
+      "EEE",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1300,
+      "ECE_general": 2300
+    },
+    "avg_package_lpa": 21,
+    "highest_package_lpa": 154,
+    "placement_rate_pct": 99,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitroorkee.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c8",
+    "name": "IIT Bhubaneswar",
+    "type": "IIT",
+    "location": {
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 29.713221483498927,
+        "lng": 84.6779512931801
+      }
+    },
+    "nirf_rank": 8,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "IT",
+      "Civil",
+      "EEE",
+      "CSE",
+      "Metallurgy",
+      "Biotech",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1500,
+      "ECE_general": 2600
+    },
+    "avg_package_lpa": 29,
+    "highest_package_lpa": 99,
+    "placement_rate_pct": 95,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitbhubaneswar.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c9",
+    "name": "IIT Gandhinagar",
+    "type": "IIT",
+    "location": {
+      "city": "Gandhinagar",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 23.686203854629724,
+        "lng": 79.33127249341425
+      }
+    },
+    "nirf_rank": 9,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "CSE",
+      "Chemical",
+      "IT",
+      "ECE",
+      "Biotech",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1700,
+      "ECE_general": 2900
+    },
+    "avg_package_lpa": 29,
+    "highest_package_lpa": 158,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitgandhinagar.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c10",
+    "name": "IIT Hyderabad",
+    "type": "IIT",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 25.1831651010696,
+        "lng": 81.68278861388018
+      }
+    },
+    "nirf_rank": 10,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "IT",
+      "Metallurgy",
+      "ECE",
+      "Chemical",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1900,
+      "ECE_general": 3200
+    },
+    "avg_package_lpa": 26,
+    "highest_package_lpa": 88,
+    "placement_rate_pct": 97,
+    "fees_per_year_inr": 250000,
+    "website": "https://iithyderabad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c11",
+    "name": "IIT Jodhpur",
+    "type": "IIT",
+    "location": {
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "coordinates": {
+        "lat": 20.580851600995604,
+        "lng": 76.55165383005912
+      }
+    },
+    "nirf_rank": 11,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Chemical",
+      "IT",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2100,
+      "ECE_general": 3500
+    },
+    "avg_package_lpa": 21,
+    "highest_package_lpa": 100,
+    "placement_rate_pct": 97,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitjodhpur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c12",
+    "name": "IIT Patna",
+    "type": "IIT",
+    "location": {
+      "city": "Patna",
+      "state": "Bihar",
+      "coordinates": {
+        "lat": 22.609817627699275,
+        "lng": 78.80812156792956
+      }
+    },
+    "nirf_rank": 12,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Chemical",
+      "IT",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2300,
+      "ECE_general": 3800
+    },
+    "avg_package_lpa": 23,
+    "highest_package_lpa": 111,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitpatna.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c13",
+    "name": "IIT Indore",
+    "type": "IIT",
+    "location": {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 25.583591267538544,
+        "lng": 79.09671417521588
+      }
+    },
+    "nirf_rank": 13,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Civil",
+      "ECE",
+      "Aerospace",
+      "Mech",
+      "CSE",
+      "Biotech",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2500,
+      "ECE_general": 4100
+    },
+    "avg_package_lpa": 27,
+    "highest_package_lpa": 127,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitindore.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c14",
+    "name": "IIT Mandi",
+    "type": "IIT",
+    "location": {
+      "city": "Mandi",
+      "state": "Himachal Pradesh",
+      "coordinates": {
+        "lat": 26.70924048754437,
+        "lng": 78.88141369822539
+      }
+    },
+    "nirf_rank": 14,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Civil",
+      "Biotech",
+      "Chemical",
+      "ECE",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2700,
+      "ECE_general": 4400
+    },
+    "avg_package_lpa": 25,
+    "highest_package_lpa": 99,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitmandi.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c15",
+    "name": "IIT Varanasi",
+    "type": "IIT",
+    "location": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 24.315123596235935,
+        "lng": 80.63609225017731
+      }
+    },
+    "nirf_rank": 15,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "IT",
+      "Civil",
+      "Biotech",
+      "CSE",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2900,
+      "ECE_general": 4700
+    },
+    "avg_package_lpa": 27,
+    "highest_package_lpa": 154,
+    "placement_rate_pct": 96,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitvaranasi.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c16",
+    "name": "IIT Palakkad",
+    "type": "IIT",
+    "location": {
+      "city": "Palakkad",
+      "state": "Kerala",
+      "coordinates": {
+        "lat": 20.930820939452637,
+        "lng": 82.60686314856198
+      }
+    },
+    "nirf_rank": 16,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Biotech",
+      "Civil",
+      "Aerospace",
+      "EEE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 3100,
+      "ECE_general": 5000
+    },
+    "avg_package_lpa": 29,
+    "highest_package_lpa": 119,
+    "placement_rate_pct": 93,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitpalakkad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c17",
+    "name": "IIT Tirupati",
+    "type": "IIT",
+    "location": {
+      "city": "Tirupati",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 28.980649544566738,
+        "lng": 81.79807197096203
+      }
+    },
+    "nirf_rank": 17,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Aerospace",
+      "Chemical",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 3300,
+      "ECE_general": 5300
+    },
+    "avg_package_lpa": 21,
+    "highest_package_lpa": 153,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 250000,
+    "website": "https://iittirupati.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c18",
+    "name": "IIT Dhanbad",
+    "type": "IIT",
+    "location": {
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "coordinates": {
+        "lat": 20.76883269544354,
+        "lng": 78.83547576784517
+      }
+    },
+    "nirf_rank": 18,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Mech",
+      "EEE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 3500,
+      "ECE_general": 5600
+    },
+    "avg_package_lpa": 28,
+    "highest_package_lpa": 99,
+    "placement_rate_pct": 96,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitdhanbad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c19",
+    "name": "IIT Bhilai",
+    "type": "IIT",
+    "location": {
+      "city": "Bhilai",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 22.08160481106257,
+        "lng": 78.88166784606162
+      }
+    },
+    "nirf_rank": 19,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Civil",
+      "Metallurgy",
+      "CSE",
+      "IT",
+      "ECE",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 3700,
+      "ECE_general": 5900
+    },
+    "avg_package_lpa": 24,
+    "highest_package_lpa": 179,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitbhilai.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c20",
+    "name": "IIT Goa",
+    "type": "IIT",
+    "location": {
+      "city": "Goa",
+      "state": "Goa",
+      "coordinates": {
+        "lat": 23.774349364265625,
+        "lng": 84.479933636355
+      }
+    },
+    "nirf_rank": 20,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Metallurgy",
+      "Civil",
+      "Mech",
+      "IT",
+      "Chemical",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 3900,
+      "ECE_general": 6200
+    },
+    "avg_package_lpa": 28,
+    "highest_package_lpa": 125,
+    "placement_rate_pct": 94,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitgoa.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c21",
+    "name": "IIT Jammu",
+    "type": "IIT",
+    "location": {
+      "city": "Jammu",
+      "state": "Jammu and Kashmir",
+      "coordinates": {
+        "lat": 25.342419785839358,
+        "lng": 82.81188038610512
+      }
+    },
+    "nirf_rank": 21,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Biotech",
+      "Aerospace",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 4100,
+      "ECE_general": 6500
+    },
+    "avg_package_lpa": 24,
+    "highest_package_lpa": 177,
+    "placement_rate_pct": 95,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitjammu.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c22",
+    "name": "IIT Dharwad",
+    "type": "IIT",
+    "location": {
+      "city": "Dharwad",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 23.123846343826674,
+        "lng": 77.46538160150891
+      }
+    },
+    "nirf_rank": 22,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Metallurgy",
+      "IT",
+      "Chemical",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 4300,
+      "ECE_general": 6800
+    },
+    "avg_package_lpa": 22,
+    "highest_package_lpa": 118,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 250000,
+    "website": "https://iitdharwad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c23",
+    "name": "NIT Tiruchirappalli",
+    "type": "NIT",
+    "location": {
+      "city": "Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 24.074654699435094,
+        "lng": 78.0906644057012
+      }
+    },
+    "nirf_rank": 17,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Civil",
+      "ECE",
+      "Chemical",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2000,
+      "ECE_general": 5000
+    },
+    "avg_package_lpa": 16,
+    "highest_package_lpa": 55,
+    "placement_rate_pct": 94,
+    "fees_per_year_inr": 150000,
+    "website": "https://nittiruchirappalli.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c24",
+    "name": "NIT Surathkal",
+    "type": "NIT",
+    "location": {
+      "city": "Surathkal",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 21.223001334225962,
+        "lng": 79.00850163244222
+      }
+    },
+    "nirf_rank": 18,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "Biotech",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2500,
+      "ECE_general": 5800
+    },
+    "avg_package_lpa": 19,
+    "highest_package_lpa": 60,
+    "placement_rate_pct": 98,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitsurathkal.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c25",
+    "name": "NIT Warangal",
+    "type": "NIT",
+    "location": {
+      "city": "Warangal",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 22.325948893306975,
+        "lng": 77.97088930064781
+      }
+    },
+    "nirf_rank": 20,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Biotech",
+      "Aerospace",
+      "Civil",
+      "Chemical",
+      "CSE",
+      "EEE",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 3000,
+      "ECE_general": 6600
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 75,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitwarangal.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c26",
+    "name": "NIT Calicut",
+    "type": "NIT",
+    "location": {
+      "city": "Calicut",
+      "state": "Kerala",
+      "coordinates": {
+        "lat": 29.72938966248003,
+        "lng": 77.30456620559401
+      }
+    },
+    "nirf_rank": 16,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "ECE",
+      "Civil",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 3500,
+      "ECE_general": 7400
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 67,
+    "placement_rate_pct": 94,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitcalicut.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c27",
+    "name": "NIT Rourkela",
+    "type": "NIT",
+    "location": {
+      "city": "Rourkela",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 23.091751927572282,
+        "lng": 77.14496004326892
+      }
+    },
+    "nirf_rank": 15,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Mech",
+      "IT",
+      "EEE",
+      "Chemical",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 4000,
+      "ECE_general": 8200
+    },
+    "avg_package_lpa": 12,
+    "highest_package_lpa": 46,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitrourkela.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c28",
+    "name": "NIT Allahabad",
+    "type": "NIT",
+    "location": {
+      "city": "Allahabad",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 28.798803770495994,
+        "lng": 78.35017315774304
+      }
+    },
+    "nirf_rank": 17,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "IT",
+      "EEE",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 4500,
+      "ECE_general": 9000
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 61,
+    "placement_rate_pct": 98,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitallahabad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c29",
+    "name": "NIT Jaipur",
+    "type": "NIT",
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "coordinates": {
+        "lat": 22.888621279498377,
+        "lng": 79.26974789020038
+      }
+    },
+    "nirf_rank": 25,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Mech",
+      "Civil",
+      "ECE",
+      "CSE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5000,
+      "ECE_general": 9800
+    },
+    "avg_package_lpa": 19,
+    "highest_package_lpa": 60,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitjaipur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c30",
+    "name": "NIT Kurukshetra",
+    "type": "NIT",
+    "location": {
+      "city": "Kurukshetra",
+      "state": "Haryana",
+      "coordinates": {
+        "lat": 25.799403244507204,
+        "lng": 82.07601576973316
+      }
+    },
+    "nirf_rank": 17,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "Mech",
+      "Civil",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5500,
+      "ECE_general": 10600
+    },
+    "avg_package_lpa": 12,
+    "highest_package_lpa": 74,
+    "placement_rate_pct": 97,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitkurukshetra.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c31",
+    "name": "NIT Silchar",
+    "type": "NIT",
+    "location": {
+      "city": "Silchar",
+      "state": "Assam",
+      "coordinates": {
+        "lat": 26.372168826679847,
+        "lng": 75.21194158474594
+      }
+    },
+    "nirf_rank": 20,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "Mech",
+      "Civil",
+      "ECE",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 6000,
+      "ECE_general": 11400
+    },
+    "avg_package_lpa": 17,
+    "highest_package_lpa": 51,
+    "placement_rate_pct": 93,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitsilchar.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c32",
+    "name": "NIT Durgapur",
+    "type": "NIT",
+    "location": {
+      "city": "Durgapur",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 28.27735313600741,
+        "lng": 77.66924871852922
+      }
+    },
+    "nirf_rank": 26,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Metallurgy",
+      "CSE",
+      "ECE",
+      "Biotech",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 6500,
+      "ECE_general": 12200
+    },
+    "avg_package_lpa": 12,
+    "highest_package_lpa": 47,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitdurgapur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c33",
+    "name": "NIT Jalandhar",
+    "type": "NIT",
+    "location": {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 27.666511000103494,
+        "lng": 84.7116449677801
+      }
+    },
+    "nirf_rank": 24,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "ECE",
+      "Chemical",
+      "Civil",
+      "IT",
+      "Biotech",
+      "CSE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 7000,
+      "ECE_general": 13000
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 45,
+    "placement_rate_pct": 88,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitjalandhar.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c34",
+    "name": "NIT Surat",
+    "type": "NIT",
+    "location": {
+      "city": "Surat",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 24.687552957496962,
+        "lng": 83.3002527236605
+      }
+    },
+    "nirf_rank": 22,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Metallurgy",
+      "EEE",
+      "ECE",
+      "Mech",
+      "IT",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 7500,
+      "ECE_general": 13800
+    },
+    "avg_package_lpa": 19,
+    "highest_package_lpa": 68,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitsurat.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c35",
+    "name": "NIT Meghalaya",
+    "type": "NIT",
+    "location": {
+      "city": "Meghalaya",
+      "state": "Meghalaya",
+      "coordinates": {
+        "lat": 21.111072512705224,
+        "lng": 80.49190412919216
+      }
+    },
+    "nirf_rank": 23,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Mech",
+      "Metallurgy",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 8000,
+      "ECE_general": 14600
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 44,
+    "placement_rate_pct": 87,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitmeghalaya.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c36",
+    "name": "NIT Bhopal",
+    "type": "NIT",
+    "location": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 23.732932115545037,
+        "lng": 75.08843833927442
+      }
+    },
+    "nirf_rank": 24,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Civil",
+      "Mech",
+      "Chemical",
+      "CSE",
+      "Aerospace",
+      "ECE",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 8500,
+      "ECE_general": 15400
+    },
+    "avg_package_lpa": 12,
+    "highest_package_lpa": 61,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitbhopal.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c37",
+    "name": "NIT Raipur",
+    "type": "NIT",
+    "location": {
+      "city": "Raipur",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 22.941201672807278,
+        "lng": 77.41406737444679
+      }
+    },
+    "nirf_rank": 32,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "CSE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 9000,
+      "ECE_general": 16200
+    },
+    "avg_package_lpa": 17,
+    "highest_package_lpa": 77,
+    "placement_rate_pct": 95,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitraipur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c38",
+    "name": "NIT Agartala",
+    "type": "NIT",
+    "location": {
+      "city": "Agartala",
+      "state": "Tripura",
+      "coordinates": {
+        "lat": 27.646860527347467,
+        "lng": 77.8311278831921
+      }
+    },
+    "nirf_rank": 30,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "EEE",
+      "Chemical",
+      "Mech",
+      "Civil",
+      "Metallurgy",
+      "ECE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 9500,
+      "ECE_general": 17000
+    },
+    "avg_package_lpa": 12,
+    "highest_package_lpa": 44,
+    "placement_rate_pct": 98,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitagartala.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c39",
+    "name": "NIT Goa",
+    "type": "NIT",
+    "location": {
+      "city": "Goa",
+      "state": "Goa",
+      "coordinates": {
+        "lat": 23.581764306181267,
+        "lng": 78.9939020178987
+      }
+    },
+    "nirf_rank": 28,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "Civil",
+      "Mech",
+      "Metallurgy",
+      "ECE",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 10000,
+      "ECE_general": 17800
+    },
+    "avg_package_lpa": 19,
+    "highest_package_lpa": 44,
+    "placement_rate_pct": 89,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitgoa.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c40",
+    "name": "NIT Jamshedpur",
+    "type": "NIT",
+    "location": {
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "coordinates": {
+        "lat": 20.475907651736932,
+        "lng": 78.66389277255806
+      }
+    },
+    "nirf_rank": 28,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Civil",
+      "Chemical",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 10500,
+      "ECE_general": 18600
+    },
+    "avg_package_lpa": 13,
+    "highest_package_lpa": 65,
+    "placement_rate_pct": 97,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitjamshedpur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c41",
+    "name": "NIT Patna",
+    "type": "NIT",
+    "location": {
+      "city": "Patna",
+      "state": "Bihar",
+      "coordinates": {
+        "lat": 28.190242830566472,
+        "lng": 77.64129312771875
+      }
+    },
+    "nirf_rank": 31,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "ECE",
+      "Civil",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 11000,
+      "ECE_general": 19400
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 62,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitpatna.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c42",
+    "name": "NIT Hamirpur",
+    "type": "NIT",
+    "location": {
+      "city": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "coordinates": {
+        "lat": 29.138979130160717,
+        "lng": 77.67919844154949
+      }
+    },
+    "nirf_rank": 36,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Metallurgy",
+      "Civil",
+      "IT",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 11500,
+      "ECE_general": 20200
+    },
+    "avg_package_lpa": 16,
+    "highest_package_lpa": 59,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 150000,
+    "website": "https://nithamirpur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c43",
+    "name": "NIT Puducherry",
+    "type": "NIT",
+    "location": {
+      "city": "Puducherry",
+      "state": "Puducherry",
+      "coordinates": {
+        "lat": 23.55512517158092,
+        "lng": 80.84584212259776
+      }
+    },
+    "nirf_rank": 36,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Metallurgy",
+      "Civil",
+      "IT",
+      "Chemical",
+      "Mech",
+      "ECE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 12000,
+      "ECE_general": 21000
+    },
+    "avg_package_lpa": 19,
+    "highest_package_lpa": 62,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitpuducherry.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c44",
+    "name": "NIT Srinagar",
+    "type": "NIT",
+    "location": {
+      "city": "Srinagar",
+      "state": "Jammu and Kashmir",
+      "coordinates": {
+        "lat": 24.420470700525392,
+        "lng": 84.45863355575833
+      }
+    },
+    "nirf_rank": 37,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Metallurgy",
+      "CSE",
+      "Aerospace",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 12500,
+      "ECE_general": 21800
+    },
+    "avg_package_lpa": 17,
+    "highest_package_lpa": 65,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 150000,
+    "website": "https://nitsrinagar.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c45",
+    "name": "IIIT Hyderabad",
+    "type": "IIIT",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 24.46680146119067,
+        "lng": 83.3112941074844
+      }
+    },
+    "nirf_rank": 43,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5000,
+      "ECE_general": 10000
+    },
+    "avg_package_lpa": 18,
+    "highest_package_lpa": 84,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiithyderabad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c46",
+    "name": "IIIT Bangalore",
+    "type": "IIIT",
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 24.933810920171496,
+        "lng": 84.47863659520313
+      }
+    },
+    "nirf_rank": 41,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 6000,
+      "ECE_general": 11500
+    },
+    "avg_package_lpa": 18,
+    "highest_package_lpa": 61,
+    "placement_rate_pct": 99,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitbangalore.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c47",
+    "name": "IIIT Guwahati",
+    "type": "IIIT",
+    "location": {
+      "city": "Guwahati",
+      "state": "Assam",
+      "coordinates": {
+        "lat": 23.783485607161165,
+        "lng": 83.96080905960616
+      }
+    },
+    "nirf_rank": 48,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 7000,
+      "ECE_general": 13000
+    },
+    "avg_package_lpa": 20,
+    "highest_package_lpa": 60,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitguwahati.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c48",
+    "name": "IIIT Jabalpur",
+    "type": "IIIT",
+    "location": {
+      "city": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 25.960339058723335,
+        "lng": 82.98265729769527
+      }
+    },
+    "nirf_rank": 62,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 8000,
+      "ECE_general": 14500
+    },
+    "avg_package_lpa": 16,
+    "highest_package_lpa": 80,
+    "placement_rate_pct": 95,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitjabalpur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c49",
+    "name": "IIIT Gwalior",
+    "type": "IIIT",
+    "location": {
+      "city": "Gwalior",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 21.096329851268784,
+        "lng": 79.47596776003213
+      }
+    },
+    "nirf_rank": 57,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 9000,
+      "ECE_general": 16000
+    },
+    "avg_package_lpa": 20,
+    "highest_package_lpa": 47,
+    "placement_rate_pct": 94,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitgwalior.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c50",
+    "name": "IIIT Allahabad",
+    "type": "IIIT",
+    "location": {
+      "city": "Allahabad",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 20.069791559792804,
+        "lng": 80.38802132376361
+      }
+    },
+    "nirf_rank": 49,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 10000,
+      "ECE_general": 17500
+    },
+    "avg_package_lpa": 17,
+    "highest_package_lpa": 91,
+    "placement_rate_pct": 96,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitallahabad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c51",
+    "name": "IIIT Kanchipuram",
+    "type": "IIIT",
+    "location": {
+      "city": "Kanchipuram",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 23.14956554208988,
+        "lng": 79.00294605454502
+      }
+    },
+    "nirf_rank": 54,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 11000,
+      "ECE_general": 19000
+    },
+    "avg_package_lpa": 20,
+    "highest_package_lpa": 50,
+    "placement_rate_pct": 93,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitkanchipuram.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c52",
+    "name": "IIIT Pune",
+    "type": "IIIT",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 29.713633678220006,
+        "lng": 78.98934721772659
+      }
+    },
+    "nirf_rank": 48,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 12000,
+      "ECE_general": 20500
+    },
+    "avg_package_lpa": 20,
+    "highest_package_lpa": 72,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitpune.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c53",
+    "name": "IIIT Kota",
+    "type": "IIIT",
+    "location": {
+      "city": "Kota",
+      "state": "Rajasthan",
+      "coordinates": {
+        "lat": 25.149657899854056,
+        "lng": 83.86553919526642
+      }
+    },
+    "nirf_rank": 53,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 13000,
+      "ECE_general": 22000
+    },
+    "avg_package_lpa": 18,
+    "highest_package_lpa": 76,
+    "placement_rate_pct": 95,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitkota.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c54",
+    "name": "IIIT Sri City",
+    "type": "IIIT",
+    "location": {
+      "city": "Sri City",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 24.14755520614147,
+        "lng": 78.02696783422303
+      }
+    },
+    "nirf_rank": 51,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 14000,
+      "ECE_general": 23500
+    },
+    "avg_package_lpa": 18,
+    "highest_package_lpa": 90,
+    "placement_rate_pct": 96,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitsricity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c55",
+    "name": "IIIT Vadodara",
+    "type": "IIIT",
+    "location": {
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 23.701857443571885,
+        "lng": 79.86953206011113
+      }
+    },
+    "nirf_rank": 69,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 15000,
+      "ECE_general": 25000
+    },
+    "avg_package_lpa": 16,
+    "highest_package_lpa": 63,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitvadodara.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c56",
+    "name": "IIIT Nagpur",
+    "type": "IIIT",
+    "location": {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 21.809017038433264,
+        "lng": 79.78499010189391
+      }
+    },
+    "nirf_rank": 63,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 16000,
+      "ECE_general": 26500
+    },
+    "avg_package_lpa": 16,
+    "highest_package_lpa": 74,
+    "placement_rate_pct": 97,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitnagpur.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c57",
+    "name": "IIIT Kalyani",
+    "type": "IIIT",
+    "location": {
+      "city": "Kalyani",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 24.58738960595754,
+        "lng": 82.58693699910286
+      }
+    },
+    "nirf_rank": 64,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 17000,
+      "ECE_general": 28000
+    },
+    "avg_package_lpa": 18,
+    "highest_package_lpa": 55,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitkalyani.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c58",
+    "name": "IIIT Lucknow",
+    "type": "IIIT",
+    "location": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 26.353100200895266,
+        "lng": 78.38960866126214
+      }
+    },
+    "nirf_rank": 60,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 18000,
+      "ECE_general": 29500
+    },
+    "avg_package_lpa": 17,
+    "highest_package_lpa": 56,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitlucknow.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c59",
+    "name": "IIIT Dharwad",
+    "type": "IIIT",
+    "location": {
+      "city": "Dharwad",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 22.545813751540514,
+        "lng": 83.54752031952927
+      }
+    },
+    "nirf_rank": 66,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 19000,
+      "ECE_general": 31000
+    },
+    "avg_package_lpa": 19,
+    "highest_package_lpa": 68,
+    "placement_rate_pct": 98,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitdharwad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c60",
+    "name": "IIIT Kurnool",
+    "type": "IIIT",
+    "location": {
+      "city": "Kurnool",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 24.67391116803476,
+        "lng": 80.44785759563504
+      }
+    },
+    "nirf_rank": 64,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 20000,
+      "ECE_general": 32500
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 92,
+    "placement_rate_pct": 94,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitkurnool.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c61",
+    "name": "IIIT Kottayam",
+    "type": "IIIT",
+    "location": {
+      "city": "Kottayam",
+      "state": "Kerala",
+      "coordinates": {
+        "lat": 26.776159056998694,
+        "lng": 80.96966188945282
+      }
+    },
+    "nirf_rank": 67,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 21000,
+      "ECE_general": 34000
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 52,
+    "placement_rate_pct": 96,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitkottayam.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c62",
+    "name": "IIIT Ranchi",
+    "type": "IIIT",
+    "location": {
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "coordinates": {
+        "lat": 28.070743506985192,
+        "lng": 81.77734830995739
+      }
+    },
+    "nirf_rank": 65,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 22000,
+      "ECE_general": 35500
+    },
+    "avg_package_lpa": 17,
+    "highest_package_lpa": 85,
+    "placement_rate_pct": 95,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitranchi.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c63",
+    "name": "IIIT Surat",
+    "type": "IIIT",
+    "location": {
+      "city": "Surat",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 29.618754009084327,
+        "lng": 80.84178080009744
+      }
+    },
+    "nirf_rank": 69,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 23000,
+      "ECE_general": 37000
+    },
+    "avg_package_lpa": 23,
+    "highest_package_lpa": 68,
+    "placement_rate_pct": 99,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitsurat.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c64",
+    "name": "IIIT Bhopal",
+    "type": "IIIT",
+    "location": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 28.845464465730533,
+        "lng": 75.68858272473575
+      }
+    },
+    "nirf_rank": 62,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 24000,
+      "ECE_general": 38500
+    },
+    "avg_package_lpa": 19,
+    "highest_package_lpa": 59,
+    "placement_rate_pct": 95,
+    "fees_per_year_inr": 200000,
+    "website": "https://iiitbhopal.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c65",
+    "name": "BITS Pilani",
+    "type": "Deemed",
+    "location": {
+      "city": "Pilani",
+      "state": "Rajasthan",
+      "coordinates": {
+        "lat": 22.760270238092573,
+        "lng": 83.40321435138681
+      }
+    },
+    "nirf_rank": 133,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Chemical",
+      "Civil",
+      "IT",
+      "EEE",
+      "Mech",
+      "Metallurgy",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "BITSAT"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 13950,
+      "ECE_general": 26447
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 57,
+    "placement_rate_pct": 94,
+    "fees_per_year_inr": 226383,
+    "website": "https://bitspilani.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c66",
+    "name": "BITS Pilani Goa",
+    "type": "Deemed",
+    "location": {
+      "city": "Goa",
+      "state": "Goa",
+      "coordinates": {
+        "lat": 20.61878869725749,
+        "lng": 82.09937078726351
+      }
+    },
+    "nirf_rank": 146,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Metallurgy",
+      "Mech",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "BITSAT"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 9820,
+      "ECE_general": 14861
+    },
+    "avg_package_lpa": 8,
+    "highest_package_lpa": 58,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 302469,
+    "website": "https://bitspilanigoa.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c67",
+    "name": "BITS Pilani Hyderabad",
+    "type": "Deemed",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 25.14290961651933,
+        "lng": 81.92788117497993
+      }
+    },
+    "nirf_rank": 91,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Metallurgy",
+      "IT",
+      "Civil",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "BITSAT"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 17543,
+      "ECE_general": 19708
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 30,
+    "placement_rate_pct": 80,
+    "fees_per_year_inr": 270579,
+    "website": "https://bitspilanihyderabad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c68",
+    "name": "VIT Vellore",
+    "type": "Private",
+    "location": {
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 20.566565796901333,
+        "lng": 80.12174259775057
+      }
+    },
+    "nirf_rank": 28,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Chemical",
+      "Mech",
+      "IT",
+      "Civil",
+      "Aerospace",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "VITEEE"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5847,
+      "ECE_general": 15131
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 43,
+    "placement_rate_pct": 82,
+    "fees_per_year_inr": 160112,
+    "website": "https://vitvellore.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c69",
+    "name": "VIT Chennai",
+    "type": "Private",
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 28.954594776584443,
+        "lng": 79.90708897039475
+      }
+    },
+    "nirf_rank": 106,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "IT",
+      "Civil",
+      "Chemical",
+      "Aerospace",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "VITEEE"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 14776,
+      "ECE_general": 21988
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 39,
+    "placement_rate_pct": 89,
+    "fees_per_year_inr": 316147,
+    "website": "https://vitchennai.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c70",
+    "name": "SRM IST",
+    "type": "Private",
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 29.144394998195107,
+        "lng": 77.17976693760295
+      }
+    },
+    "nirf_rank": 88,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "IT",
+      "Chemical",
+      "Biotech",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "SRMJEEE"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 20766,
+      "ECE_general": 34065
+    },
+    "avg_package_lpa": 9,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 83,
+    "fees_per_year_inr": 271780,
+    "website": "https://srmist.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c71",
+    "name": "Manipal Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Manipal",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 24.94374699755526,
+        "lng": 82.52007382888239
+      }
+    },
+    "nirf_rank": 46,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Aerospace",
+      "IT",
+      "ECE",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "MET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 6588,
+      "ECE_general": 18180
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 57,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 165502,
+    "website": "https://manipalinstituteoftechnology.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c72",
+    "name": "RV College of Engineering",
+    "type": "Private",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 24.005188825442744,
+        "lng": 83.47298464608349
+      }
+    },
+    "nirf_rank": 44,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "EEE",
+      "IT",
+      "ECE",
+      "Chemical",
+      "Biotech",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "KCET",
+      "COMEDK"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 3692,
+      "ECE_general": 20898
+    },
+    "avg_package_lpa": 12,
+    "highest_package_lpa": 42,
+    "placement_rate_pct": 92,
+    "fees_per_year_inr": 258657,
+    "website": "https://rvcollegeofengineering.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c73",
+    "name": "BMS College of Engineering",
+    "type": "Private",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 25.4175804441829,
+        "lng": 76.09124911152682
+      }
+    },
+    "nirf_rank": 58,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Chemical",
+      "Biotech",
+      "IT"
+    ],
+    "entrance_exams": [
+      "KCET",
+      "COMEDK"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5259,
+      "ECE_general": 23190
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 50,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 302882,
+    "website": "https://bmscollegeofengineering.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c74",
+    "name": "MSRIT",
+    "type": "Private",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 28.14384949000547,
+        "lng": 75.19307266561965
+      }
+    },
+    "nirf_rank": 60,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Aerospace",
+      "EEE",
+      "Mech",
+      "IT"
+    ],
+    "entrance_exams": [
+      "KCET",
+      "COMEDK"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 14045,
+      "ECE_general": 23237
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 57,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 185166,
+    "website": "https://msrit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c75",
+    "name": "PES University",
+    "type": "Private",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 23.30457535475544,
+        "lng": 84.6296710479985
+      }
+    },
+    "nirf_rank": 21,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Biotech",
+      "Aerospace",
+      "CSE",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "PESSAT",
+      "KCET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 17571,
+      "ECE_general": 8269
+    },
+    "avg_package_lpa": 10,
+    "highest_package_lpa": 21,
+    "placement_rate_pct": 84,
+    "fees_per_year_inr": 342286,
+    "website": "https://pesuniversity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c76",
+    "name": "Jadavpur University",
+    "type": "State",
+    "location": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 20.791993863408297,
+        "lng": 77.64273599607237
+      }
+    },
+    "nirf_rank": 29,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "ECE",
+      "CSE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "WBJEE"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 13485,
+      "ECE_general": 26349
+    },
+    "avg_package_lpa": 12,
+    "highest_package_lpa": 47,
+    "placement_rate_pct": 87,
+    "fees_per_year_inr": 69612,
+    "website": "https://jadavpuruniversity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c77",
+    "name": "Delhi Technological University",
+    "type": "State",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 26.044350094196577,
+        "lng": 80.55683903669664
+      }
+    },
+    "nirf_rank": 13,
+    "naac_grade": "A",
+    "courses_offered": [
+      "EEE",
+      "IT",
+      "Chemical",
+      "Civil",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "JEE Main",
+      "JAC Delhi"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 8399,
+      "ECE_general": 23538
+    },
+    "avg_package_lpa": 8,
+    "highest_package_lpa": 34,
+    "placement_rate_pct": 78,
+    "fees_per_year_inr": 82482,
+    "website": "https://delhitechnologicaluniversity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c78",
+    "name": "NSUT",
+    "type": "State",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 22.415355049055265,
+        "lng": 83.154354446343
+      }
+    },
+    "nirf_rank": 114,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Aerospace",
+      "EEE",
+      "IT",
+      "ECE",
+      "Metallurgy",
+      "Chemical",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "JEE Main",
+      "JAC Delhi"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 11602,
+      "ECE_general": 18491
+    },
+    "avg_package_lpa": 9,
+    "highest_package_lpa": 59,
+    "placement_rate_pct": 84,
+    "fees_per_year_inr": 59407,
+    "website": "https://nsut.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c79",
+    "name": "IGDTUW",
+    "type": "State",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 23.745476146955966,
+        "lng": 75.20154645142719
+      }
+    },
+    "nirf_rank": 57,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "Mech",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "JEE Main",
+      "JAC Delhi"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 15592,
+      "ECE_general": 13436
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 37,
+    "placement_rate_pct": 87,
+    "fees_per_year_inr": 96093,
+    "website": "https://igdtuw.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c80",
+    "name": "COEP",
+    "type": "State",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 20.500828613813137,
+        "lng": 75.64995642544267
+      }
+    },
+    "nirf_rank": 22,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Chemical",
+      "Metallurgy",
+      "IT",
+      "Civil",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "MHT CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1435,
+      "ECE_general": 21853
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 25,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 78281,
+    "website": "https://coep.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c81",
+    "name": "VJTI",
+    "type": "State",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 27.487853647929644,
+        "lng": 77.79487539521585
+      }
+    },
+    "nirf_rank": 43,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "Chemical",
+      "Metallurgy",
+      "IT",
+      "ECE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "MHT CET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2494,
+      "ECE_general": 14672
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 39,
+    "placement_rate_pct": 81,
+    "fees_per_year_inr": 53822,
+    "website": "https://vjti.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c82",
+    "name": "Osmania University",
+    "type": "State",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 23.34907535537277,
+        "lng": 84.84579053772721
+      }
+    },
+    "nirf_rank": 84,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Aerospace",
+      "Chemical",
+      "Biotech",
+      "ECE",
+      "IT",
+      "CSE",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "TS EAMCET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 7464,
+      "ECE_general": 24540
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 49,
+    "placement_rate_pct": 94,
+    "fees_per_year_inr": 61070,
+    "website": "https://osmaniauniversity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c83",
+    "name": "JNTU Hyderabad",
+    "type": "State",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 29.40549398710496,
+        "lng": 83.49225052189828
+      }
+    },
+    "nirf_rank": 58,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "EEE",
+      "Aerospace",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "TS EAMCET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1429,
+      "ECE_general": 26024
+    },
+    "avg_package_lpa": 9,
+    "highest_package_lpa": 36,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 60354,
+    "website": "https://jntuhyderabad.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c84",
+    "name": "JNTU Kakinada",
+    "type": "State",
+    "location": {
+      "city": "Kakinada",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 29.523373546500018,
+        "lng": 75.25476426027751
+      }
+    },
+    "nirf_rank": 49,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Metallurgy",
+      "EEE",
+      "Mech",
+      "IT",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "AP EAPCET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5575,
+      "ECE_general": 12716
+    },
+    "avg_package_lpa": 9,
+    "highest_package_lpa": 34,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 85627,
+    "website": "https://jntukakinada.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c85",
+    "name": "Andhra University",
+    "type": "State",
+    "location": {
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 22.632357447275695,
+        "lng": 82.66852282615594
+      }
+    },
+    "nirf_rank": 119,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "IT",
+      "Mech",
+      "ECE",
+      "CSE",
+      "EEE",
+      "Metallurgy",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "AP EAPCET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5540,
+      "ECE_general": 6763
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 56,
+    "placement_rate_pct": 88,
+    "fees_per_year_inr": 93572,
+    "website": "https://andhrauniversity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c86",
+    "name": "Thapar Institute",
+    "type": "Deemed",
+    "location": {
+      "city": "Patiala",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 26.060212767553097,
+        "lng": 77.7909481676962
+      }
+    },
+    "nirf_rank": 139,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Civil",
+      "IT",
+      "Biotech",
+      "Chemical",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 7515,
+      "ECE_general": 32658
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 55,
+    "placement_rate_pct": 80,
+    "fees_per_year_inr": 213172,
+    "website": "https://thaparinstitute.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c87",
+    "name": "PSG College of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 20.015337547524005,
+        "lng": 80.71493954845181
+      }
+    },
+    "nirf_rank": 27,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Chemical",
+      "EEE",
+      "IT",
+      "ECE",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "TNEA"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 13619,
+      "ECE_general": 15998
+    },
+    "avg_package_lpa": 13,
+    "highest_package_lpa": 43,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 187928,
+    "website": "https://psgcollegeoftechnology.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c88",
+    "name": "SSN College of Engineering",
+    "type": "Private",
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 24.836728015972593,
+        "lng": 80.21890736547434
+      }
+    },
+    "nirf_rank": 81,
+    "naac_grade": "A",
+    "courses_offered": [
+      "IT",
+      "EEE",
+      "Civil",
+      "Metallurgy",
+      "Chemical",
+      "ECE",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "TNEA"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 19855,
+      "ECE_general": 11007
+    },
+    "avg_package_lpa": 10,
+    "highest_package_lpa": 26,
+    "placement_rate_pct": 91,
+    "fees_per_year_inr": 338861,
+    "website": "https://ssncollegeofengineering.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c89",
+    "name": "Amrita Vishwa Vidyapeetham",
+    "type": "Deemed",
+    "location": {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 23.494753171431384,
+        "lng": 84.43668287882745
+      }
+    },
+    "nirf_rank": 18,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Metallurgy",
+      "IT",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "AEEE",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 20463,
+      "ECE_general": 32274
+    },
+    "avg_package_lpa": 10,
+    "highest_package_lpa": 56,
+    "placement_rate_pct": 77,
+    "fees_per_year_inr": 190812,
+    "website": "https://amritavishwavidyapeetham.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c90",
+    "name": "Kalinga Institute of Industrial Technology",
+    "type": "Private",
+    "location": {
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 29.696130661537214,
+        "lng": 76.5377961628033
+      }
+    },
+    "nirf_rank": 47,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "ECE",
+      "Metallurgy",
+      "IT",
+      "CSE",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "KIITEE"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 11718,
+      "ECE_general": 13764
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 38,
+    "placement_rate_pct": 88,
+    "fees_per_year_inr": 246761,
+    "website": "https://kalingainstituteofindustrialtechnology.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c91",
+    "name": "Siksha 'O' Anusandhan",
+    "type": "Deemed",
+    "location": {
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 27.011952850108276,
+        "lng": 75.50893398635267
+      }
+    },
+    "nirf_rank": 76,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Civil",
+      "Mech",
+      "EEE",
+      "CSE",
+      "IT",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "SAAT"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 11803,
+      "ECE_general": 8266
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 26,
+    "placement_rate_pct": 79,
+    "fees_per_year_inr": 227848,
+    "website": "https://sikshaoanusandhan.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c92",
+    "name": "Chandigarh University",
+    "type": "Private",
+    "location": {
+      "city": "Chandigarh",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 26.658630321674828,
+        "lng": 76.86614024491206
+      }
+    },
+    "nirf_rank": 142,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "Civil",
+      "CSE",
+      "Mech",
+      "Aerospace",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "CUCET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 6622,
+      "ECE_general": 14804
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 53,
+    "placement_rate_pct": 94,
+    "fees_per_year_inr": 175086,
+    "website": "https://chandigarhuniversity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c93",
+    "name": "LPU",
+    "type": "Private",
+    "location": {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 23.736178332085945,
+        "lng": 75.82754542393488
+      }
+    },
+    "nirf_rank": 108,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Metallurgy",
+      "Civil",
+      "EEE",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "LPUNEST"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 20242,
+      "ECE_general": 19608
+    },
+    "avg_package_lpa": 14,
+    "highest_package_lpa": 23,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 288104,
+    "website": "https://lpu.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c94",
+    "name": "Amity University",
+    "type": "Private",
+    "location": {
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 28.79138985371948,
+        "lng": 83.63072461090526
+      }
+    },
+    "nirf_rank": 96,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Chemical",
+      "Metallurgy",
+      "ECE",
+      "CSE",
+      "IT",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "Amity JEE"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1514,
+      "ECE_general": 13865
+    },
+    "avg_package_lpa": 13,
+    "highest_package_lpa": 43,
+    "placement_rate_pct": 80,
+    "fees_per_year_inr": 231768,
+    "website": "https://amityuniversity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c95",
+    "name": "Jaypee Institute of Information Technology",
+    "type": "Private",
+    "location": {
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 23.552995258073594,
+        "lng": 78.87046613396492
+      }
+    },
+    "nirf_rank": 147,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Chemical",
+      "IT",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5354,
+      "ECE_general": 26297
+    },
+    "avg_package_lpa": 12,
+    "highest_package_lpa": 44,
+    "placement_rate_pct": 76,
+    "fees_per_year_inr": 177818,
+    "website": "https://jaypeeinstituteofinformationtechnology.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c96",
+    "name": "Nirma University",
+    "type": "Private",
+    "location": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 29.880671256873867,
+        "lng": 82.88951169034671
+      }
+    },
+    "nirf_rank": 64,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "EEE",
+      "Aerospace",
+      "Mech",
+      "Chemical",
+      "CSE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "GUJCET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 7562,
+      "ECE_general": 32552
+    },
+    "avg_package_lpa": 13,
+    "highest_package_lpa": 47,
+    "placement_rate_pct": 89,
+    "fees_per_year_inr": 338879,
+    "website": "https://nirmauniversity.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c97",
+    "name": "DA-IICT",
+    "type": "Private",
+    "location": {
+      "city": "Gandhinagar",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 29.969985120325223,
+        "lng": 82.31247628943824
+      }
+    },
+    "nirf_rank": 125,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Chemical",
+      "EEE",
+      "Aerospace",
+      "ECE",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "GUJCET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 2093,
+      "ECE_general": 15844
+    },
+    "avg_package_lpa": 13,
+    "highest_package_lpa": 35,
+    "placement_rate_pct": 82,
+    "fees_per_year_inr": 327676,
+    "website": "https://daiict.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c98",
+    "name": "LD College of Engineering",
+    "type": "State",
+    "location": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 29.293339637928806,
+        "lng": 78.32517547347385
+      }
+    },
+    "nirf_rank": 30,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "EEE",
+      "IT",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "GUJCET"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 8647,
+      "ECE_general": 29958
+    },
+    "avg_package_lpa": 15,
+    "highest_package_lpa": 38,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 72405,
+    "website": "https://ldcollegeofengineering.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c99",
+    "name": "SGSITS",
+    "type": "State",
+    "location": {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 20.355079171893752,
+        "lng": 78.11365747863314
+      }
+    },
+    "nirf_rank": 56,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "IT",
+      "EEE",
+      "Civil",
+      "Metallurgy",
+      "Biotech",
+      "Chemical",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "MP PET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1237,
+      "ECE_general": 9306
+    },
+    "avg_package_lpa": 11,
+    "highest_package_lpa": 46,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 91218,
+    "website": "https://sgsits.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c100",
+    "name": "IET DAVV",
+    "type": "State",
+    "location": {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 25.390373220812883,
+        "lng": 75.45266785370598
+      }
+    },
+    "nirf_rank": 90,
+    "naac_grade": "A+",
+    "courses_offered": [
+      "Aerospace",
+      "Chemical",
+      "Biotech",
+      "Metallurgy",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "MP PET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 5544,
+      "ECE_general": 32404
+    },
+    "avg_package_lpa": 13,
+    "highest_package_lpa": 35,
+    "placement_rate_pct": 77,
+    "fees_per_year_inr": 85390,
+    "website": "https://ietdavv.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c101",
+    "name": "Siliguri Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Siliguri",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 25.647043045090374,
+        "lng": 81.3637572251053
+      }
+    },
+    "nirf_rank": 225,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Civil",
+      "Aerospace",
+      "Chemical",
+      "CSE",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 45861,
+      "ECE_general": 44098
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 84,
+    "fees_per_year_inr": 40000,
+    "website": "https://siliguriit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c102",
+    "name": "Kolkata Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 26.020430037743083,
+        "lng": 80.5382946208072
+      }
+    },
+    "nirf_rank": 245,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Chemical",
+      "Metallurgy",
+      "Aerospace",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 53811,
+      "ECE_general": 43756
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 23,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 128516,
+    "website": "https://kolkatait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c103",
+    "name": "Roorkee Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Roorkee",
+      "state": "Uttarakhand",
+      "coordinates": {
+        "lat": 26.20229061558383,
+        "lng": 81.2008956646286
+      }
+    },
+    "nirf_rank": 176,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Chemical",
+      "Metallurgy",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 50579,
+      "ECE_general": 64455
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 13,
+    "placement_rate_pct": 66,
+    "fees_per_year_inr": 40000,
+    "website": "https://roorkeeit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c104",
+    "name": "Kochi Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "coordinates": {
+        "lat": 26.57606547851639,
+        "lng": 81.4472418984799
+      }
+    },
+    "nirf_rank": 192,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Aerospace",
+      "IT",
+      "Civil",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 21176,
+      "ECE_general": 39641
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 19,
+    "placement_rate_pct": 80,
+    "fees_per_year_inr": 131790,
+    "website": "https://kochiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c105",
+    "name": "Jabalpur Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 22.37276102204528,
+        "lng": 75.31843900383768
+      }
+    },
+    "nirf_rank": 229,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Aerospace",
+      "EEE",
+      "Civil",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 52516,
+      "ECE_general": 34154
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 81,
+    "fees_per_year_inr": 126470,
+    "website": "https://jabalpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c106",
+    "name": "Belagavi Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Belagavi",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 23.5953086104662,
+        "lng": 79.64360470941622
+      }
+    },
+    "nirf_rank": 210,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Mech",
+      "Civil",
+      "Chemical",
+      "ECE",
+      "CSE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 47020,
+      "ECE_general": 45481
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 19,
+    "placement_rate_pct": 84,
+    "fees_per_year_inr": 159869,
+    "website": "https://belagaviit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c107",
+    "name": "Gwalior Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Gwalior",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 27.0085422357635,
+        "lng": 77.30339386952593
+      }
+    },
+    "nirf_rank": 162,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Mech",
+      "Civil",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 59637,
+      "ECE_general": 62284
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 16,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 125587,
+    "website": "https://gwaliorit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c108",
+    "name": "New Delhi Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 28.07067465470823,
+        "lng": 83.70022063078008
+      }
+    },
+    "nirf_rank": 210,
+    "naac_grade": "A",
+    "courses_offered": [
+      "EEE",
+      "Chemical",
+      "IT",
+      "ECE",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 47082,
+      "ECE_general": 61710
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 87,
+    "fees_per_year_inr": 40000,
+    "website": "https://newdelhiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c109",
+    "name": "Tezpur Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Tezpur",
+      "state": "Assam",
+      "coordinates": {
+        "lat": 26.312162565241493,
+        "lng": 84.83735875669149
+      }
+    },
+    "nirf_rank": 162,
+    "naac_grade": "A",
+    "courses_offered": [
+      "IT",
+      "Mech",
+      "Biotech",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 45509,
+      "ECE_general": 31060
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 77,
+    "fees_per_year_inr": 125753,
+    "website": "https://tezpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c110",
+    "name": "Tiruchirappalli Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 27.379800876487547,
+        "lng": 75.48270208502908
+      }
+    },
+    "nirf_rank": 203,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Civil",
+      "IT",
+      "EEE",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 53342,
+      "ECE_general": 45881
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 14,
+    "placement_rate_pct": 74,
+    "fees_per_year_inr": 194684,
+    "website": "https://tiruchirappalliit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c111",
+    "name": "Bhubaneswar Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 26.888860191659816,
+        "lng": 83.16876897225748
+      }
+    },
+    "nirf_rank": 246,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Biotech",
+      "Metallurgy",
+      "Civil",
+      "IT",
+      "Chemical",
+      "Mech",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 52068,
+      "ECE_general": 75851
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 19,
+    "placement_rate_pct": 78,
+    "fees_per_year_inr": 169848,
+    "website": "https://bhubaneswarit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c112",
+    "name": "Hubballi Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Hubballi",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 25.821395839114032,
+        "lng": 84.0098911961553
+      }
+    },
+    "nirf_rank": 226,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Civil",
+      "ECE",
+      "CSE",
+      "IT",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 23337,
+      "ECE_general": 30554
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 15,
+    "placement_rate_pct": 83,
+    "fees_per_year_inr": 133384,
+    "website": "https://hubballiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c113",
+    "name": "Thiruvananthapuram Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "coordinates": {
+        "lat": 27.50908334922051,
+        "lng": 77.13402699603985
+      }
+    },
+    "nirf_rank": 167,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Civil",
+      "ECE",
+      "Biotech",
+      "EEE",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 36206,
+      "ECE_general": 72960
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 77,
+    "fees_per_year_inr": 135289,
+    "website": "https://thiruvananthapuramit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c114",
+    "name": "Hamirpur Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "coordinates": {
+        "lat": 22.952892573553598,
+        "lng": 80.25628747015676
+      }
+    },
+    "nirf_rank": 242,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Civil",
+      "CSE",
+      "ECE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 17010,
+      "ECE_general": 76103
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 21,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 40000,
+    "website": "https://hamirpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c115",
+    "name": "Kakinada Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Kakinada",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 20.84137612167379,
+        "lng": 80.69554331147619
+      }
+    },
+    "nirf_rank": 154,
+    "naac_grade": "A",
+    "courses_offered": [
+      "EEE",
+      "CSE",
+      "ECE",
+      "IT",
+      "Mech",
+      "Aerospace",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 63214,
+      "ECE_general": 51334
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 23,
+    "placement_rate_pct": 84,
+    "fees_per_year_inr": 124629,
+    "website": "https://kakinadait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c116",
+    "name": "Delhi Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 29.04906049318074,
+        "lng": 82.71859411190047
+      }
+    },
+    "nirf_rank": 174,
+    "naac_grade": "A",
+    "courses_offered": [
+      "EEE",
+      "Civil",
+      "Chemical",
+      "IT",
+      "Aerospace",
+      "Metallurgy",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 33411,
+      "ECE_general": 46820
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 73,
+    "fees_per_year_inr": 40000,
+    "website": "https://delhiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c117",
+    "name": "Bhilai Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Bhilai",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 27.874647359622706,
+        "lng": 79.59593671997632
+      }
+    },
+    "nirf_rank": 182,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "ECE",
+      "EEE",
+      "Civil",
+      "Chemical",
+      "CSE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 17960,
+      "ECE_general": 35052
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 64,
+    "fees_per_year_inr": 176892,
+    "website": "https://bhilaiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c118",
+    "name": "Kolkata Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 27.861349636318078,
+        "lng": 75.60832390569068
+      }
+    },
+    "nirf_rank": 166,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "ECE",
+      "Aerospace",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 57844,
+      "ECE_general": 68104
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 24,
+    "placement_rate_pct": 65,
+    "fees_per_year_inr": 214751,
+    "website": "https://kolkatait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c119",
+    "name": "Madurai Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 28.014129735606843,
+        "lng": 78.2268151388755
+      }
+    },
+    "nirf_rank": 159,
+    "naac_grade": "A",
+    "courses_offered": [
+      "ECE",
+      "Aerospace",
+      "Biotech",
+      "Chemical",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 47168,
+      "ECE_general": 51748
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 84,
+    "fees_per_year_inr": 40000,
+    "website": "https://maduraiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c120",
+    "name": "Patna Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Patna",
+      "state": "Bihar",
+      "coordinates": {
+        "lat": 22.09559118523821,
+        "lng": 84.31601010032072
+      }
+    },
+    "nirf_rank": 197,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Civil",
+      "Chemical",
+      "Biotech",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 20574,
+      "ECE_general": 72112
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 72,
+    "fees_per_year_inr": 150303,
+    "website": "https://patnait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c121",
+    "name": "Bhilai Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Bhilai",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 21.49412325306159,
+        "lng": 84.7213449447367
+      }
+    },
+    "nirf_rank": 201,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Metallurgy",
+      "Mech",
+      "EEE",
+      "Biotech",
+      "Chemical",
+      "Civil",
+      "IT"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 46520,
+      "ECE_general": 76244
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 89,
+    "fees_per_year_inr": 179047,
+    "website": "https://bhilaiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c122",
+    "name": "Rourkela Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Rourkela",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 23.303256165238405,
+        "lng": 76.32966823706072
+      }
+    },
+    "nirf_rank": 213,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "EEE",
+      "Aerospace",
+      "Civil",
+      "Metallurgy",
+      "CSE",
+      "ECE",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 55956,
+      "ECE_general": 77416
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 81,
+    "fees_per_year_inr": 188918,
+    "website": "https://rourkelait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c123",
+    "name": "Jamshedpur Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "coordinates": {
+        "lat": 24.53092676284937,
+        "lng": 82.7916701655846
+      }
+    },
+    "nirf_rank": 244,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "EEE",
+      "ECE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 33929,
+      "ECE_general": 75716
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 24,
+    "placement_rate_pct": 65,
+    "fees_per_year_inr": 40000,
+    "website": "https://jamshedpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c124",
+    "name": "Bilaspur Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Bilaspur",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 23.876860041754483,
+        "lng": 75.39288906894645
+      }
+    },
+    "nirf_rank": 208,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Aerospace",
+      "Biotech",
+      "EEE",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 63832,
+      "ECE_general": 59781
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 11,
+    "placement_rate_pct": 61,
+    "fees_per_year_inr": 40000,
+    "website": "https://bilaspurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c125",
+    "name": "Gwalior Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Gwalior",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 29.183979936386333,
+        "lng": 75.40691786693625
+      }
+    },
+    "nirf_rank": 219,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Aerospace",
+      "Civil",
+      "Biotech",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 56509,
+      "ECE_general": 69727
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 19,
+    "placement_rate_pct": 68,
+    "fees_per_year_inr": 123454,
+    "website": "https://gwaliorit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c126",
+    "name": "Durgapur Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Durgapur",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 23.67423416459757,
+        "lng": 76.98533848688078
+      }
+    },
+    "nirf_rank": 174,
+    "naac_grade": "A",
+    "courses_offered": [
+      "ECE",
+      "Mech",
+      "Aerospace",
+      "Chemical",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 56128,
+      "ECE_general": 72380
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 16,
+    "placement_rate_pct": 60,
+    "fees_per_year_inr": 176582,
+    "website": "https://durgapurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c127",
+    "name": "Vadodara Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 29.437855070774575,
+        "lng": 78.3106334204998
+      }
+    },
+    "nirf_rank": 219,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "CSE",
+      "EEE",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 29048,
+      "ECE_general": 47884
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 24,
+    "placement_rate_pct": 79,
+    "fees_per_year_inr": 40000,
+    "website": "https://vadodarait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c128",
+    "name": "Panaji Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Panaji",
+      "state": "Goa",
+      "coordinates": {
+        "lat": 22.18433864262894,
+        "lng": 81.78263627427913
+      }
+    },
+    "nirf_rank": 193,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "ECE",
+      "Metallurgy",
+      "CSE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 28363,
+      "ECE_general": 58287
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 72,
+    "fees_per_year_inr": 40000,
+    "website": "https://panajiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c129",
+    "name": "Delhi Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 23.915842898329657,
+        "lng": 76.34886364204192
+      }
+    },
+    "nirf_rank": 211,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Mech",
+      "Aerospace",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 56159,
+      "ECE_general": 47470
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 72,
+    "fees_per_year_inr": 204209,
+    "website": "https://delhiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c130",
+    "name": "Vijayawada Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 21.644808329736232,
+        "lng": 82.9194959576777
+      }
+    },
+    "nirf_rank": 172,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Chemical",
+      "CSE",
+      "Biotech",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 55561,
+      "ECE_general": 76804
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 24,
+    "placement_rate_pct": 89,
+    "fees_per_year_inr": 132158,
+    "website": "https://vijayawadait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c131",
+    "name": "Mysuru Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 23.43340359271483,
+        "lng": 79.22229002524992
+      }
+    },
+    "nirf_rank": 216,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Chemical",
+      "CSE",
+      "ECE",
+      "Biotech",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 21461,
+      "ECE_general": 35020
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 20,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 154259,
+    "website": "https://mysuruit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c132",
+    "name": "Silchar Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Silchar",
+      "state": "Assam",
+      "coordinates": {
+        "lat": 26.828807551218304,
+        "lng": 78.49986336812462
+      }
+    },
+    "nirf_rank": 150,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "CSE",
+      "Aerospace",
+      "Chemical",
+      "Metallurgy",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 61872,
+      "ECE_general": 38727
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 68,
+    "fees_per_year_inr": 190863,
+    "website": "https://silcharit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c133",
+    "name": "Cuttack Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Cuttack",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 21.78288012299836,
+        "lng": 84.96271324638674
+      }
+    },
+    "nirf_rank": 223,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Metallurgy",
+      "Chemical",
+      "Biotech",
+      "ECE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 17509,
+      "ECE_general": 57314
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 15,
+    "placement_rate_pct": 74,
+    "fees_per_year_inr": 40000,
+    "website": "https://cuttackit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c134",
+    "name": "Karimnagar Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Karimnagar",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 24.78172102593374,
+        "lng": 75.01486753660164
+      }
+    },
+    "nirf_rank": 202,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Metallurgy",
+      "Civil",
+      "Chemical",
+      "Aerospace",
+      "IT",
+      "Mech",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 21340,
+      "ECE_general": 30461
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 14,
+    "placement_rate_pct": 67,
+    "fees_per_year_inr": 192939,
+    "website": "https://karimnagarit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c135",
+    "name": "Kharagpur Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Kharagpur",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 26.195768583039047,
+        "lng": 78.18431899410312
+      }
+    },
+    "nirf_rank": 156,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "IT",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 51804,
+      "ECE_general": 40213
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 60,
+    "fees_per_year_inr": 139024,
+    "website": "https://kharagpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c136",
+    "name": "Madurai Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 22.349829082451564,
+        "lng": 80.8064791338703
+      }
+    },
+    "nirf_rank": 199,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "CSE",
+      "EEE",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 56467,
+      "ECE_general": 35480
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 19,
+    "placement_rate_pct": 63,
+    "fees_per_year_inr": 40000,
+    "website": "https://maduraiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c137",
+    "name": "Dhanbad Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "coordinates": {
+        "lat": 26.5276267916474,
+        "lng": 80.2922788039658
+      }
+    },
+    "nirf_rank": 239,
+    "naac_grade": "A",
+    "courses_offered": [
+      "IT",
+      "ECE",
+      "CSE",
+      "Metallurgy",
+      "EEE",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 39455,
+      "ECE_general": 70322
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 81,
+    "fees_per_year_inr": 40000,
+    "website": "https://dhanbadit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c138",
+    "name": "Surat Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Surat",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 23.923510077879918,
+        "lng": 82.01367392690756
+      }
+    },
+    "nirf_rank": 234,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "ECE",
+      "IT",
+      "Biotech",
+      "EEE",
+      "Mech",
+      "CSE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 31677,
+      "ECE_general": 36128
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 15,
+    "placement_rate_pct": 77,
+    "fees_per_year_inr": 182602,
+    "website": "https://suratit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c139",
+    "name": "Mysuru Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 29.089296968814047,
+        "lng": 83.87284210695059
+      }
+    },
+    "nirf_rank": 189,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "IT",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 60371,
+      "ECE_general": 56914
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 14,
+    "placement_rate_pct": 62,
+    "fees_per_year_inr": 138403,
+    "website": "https://mysuruit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c140",
+    "name": "Ludhiana Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 21.092245612472805,
+        "lng": 76.85011669852017
+      }
+    },
+    "nirf_rank": 245,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "IT",
+      "CSE",
+      "ECE",
+      "Chemical",
+      "Biotech",
+      "Mech",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 26341,
+      "ECE_general": 62843
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 17,
+    "placement_rate_pct": 71,
+    "fees_per_year_inr": 191726,
+    "website": "https://ludhianait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c141",
+    "name": "Bhopal Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 23.76034586276615,
+        "lng": 75.6851218715117
+      }
+    },
+    "nirf_rank": 198,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Mech",
+      "Chemical",
+      "CSE",
+      "Civil",
+      "Aerospace",
+      "IT",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 24620,
+      "ECE_general": 52603
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 62,
+    "fees_per_year_inr": 166346,
+    "website": "https://bhopalit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c142",
+    "name": "Siliguri Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Siliguri",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 21.617664649668228,
+        "lng": 83.62601906596599
+      }
+    },
+    "nirf_rank": 215,
+    "naac_grade": "A",
+    "courses_offered": [
+      "IT",
+      "Civil",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 25564,
+      "ECE_general": 59048
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 14,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 212810,
+    "website": "https://siliguriit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c143",
+    "name": "Jamshedpur Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "coordinates": {
+        "lat": 26.055145644416072,
+        "lng": 80.21843082895101
+      }
+    },
+    "nirf_rank": 248,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Biotech",
+      "Civil",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 30852,
+      "ECE_general": 65919
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 15,
+    "placement_rate_pct": 78,
+    "fees_per_year_inr": 40000,
+    "website": "https://jamshedpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c144",
+    "name": "Karimnagar Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Karimnagar",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 22.659797396793394,
+        "lng": 75.88878808279553
+      }
+    },
+    "nirf_rank": 189,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "IT",
+      "Metallurgy",
+      "ECE",
+      "Chemical",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 50013,
+      "ECE_general": 39859
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 11,
+    "placement_rate_pct": 70,
+    "fees_per_year_inr": 40000,
+    "website": "https://karimnagarit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c145",
+    "name": "Aurangabad Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 22.220168089314868,
+        "lng": 84.12212243060955
+      }
+    },
+    "nirf_rank": 171,
+    "naac_grade": "A",
+    "courses_offered": [
+      "IT",
+      "Chemical",
+      "Mech",
+      "EEE",
+      "Metallurgy",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 20323,
+      "ECE_general": 68338
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 11,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 40000,
+    "website": "https://aurangabadit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c146",
+    "name": "Coimbatore Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 29.113358602004297,
+        "lng": 77.32646407069687
+      }
+    },
+    "nirf_rank": 152,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "IT",
+      "Civil",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 26698,
+      "ECE_general": 37418
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 71,
+    "fees_per_year_inr": 172125,
+    "website": "https://coimbatoreit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c147",
+    "name": "Bilaspur Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Bilaspur",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 29.958764467318453,
+        "lng": 81.15101338761275
+      }
+    },
+    "nirf_rank": 212,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Chemical",
+      "IT",
+      "Biotech",
+      "Metallurgy",
+      "Civil",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 15600,
+      "ECE_general": 62479
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 16,
+    "placement_rate_pct": 80,
+    "fees_per_year_inr": 214300,
+    "website": "https://bilaspurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c148",
+    "name": "Madurai Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 26.556566791787084,
+        "lng": 76.47306837019107
+      }
+    },
+    "nirf_rank": 224,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Metallurgy",
+      "EEE",
+      "Chemical",
+      "ECE",
+      "IT",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 59069,
+      "ECE_general": 31625
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 145706,
+    "website": "https://maduraiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c149",
+    "name": "Kochi Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "coordinates": {
+        "lat": 21.952679573952626,
+        "lng": 75.38015514167057
+      }
+    },
+    "nirf_rank": 242,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Metallurgy",
+      "Civil",
+      "EEE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 23132,
+      "ECE_general": 67142
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 40000,
+    "website": "https://kochiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c150",
+    "name": "Madurai Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 24.43996183358094,
+        "lng": 78.31401883808634
+      }
+    },
+    "nirf_rank": 210,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Civil",
+      "Aerospace",
+      "Metallurgy",
+      "ECE",
+      "CSE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 40785,
+      "ECE_general": 70222
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 21,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 158265,
+    "website": "https://maduraiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c151",
+    "name": "Raipur Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Raipur",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 22.2763891068043,
+        "lng": 84.65961983590266
+      }
+    },
+    "nirf_rank": 168,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "EEE",
+      "IT",
+      "Civil",
+      "Aerospace",
+      "Chemical",
+      "CSE",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 18607,
+      "ECE_general": 67640
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 17,
+    "placement_rate_pct": 84,
+    "fees_per_year_inr": 212256,
+    "website": "https://raipurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c152",
+    "name": "Margao Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Margao",
+      "state": "Goa",
+      "coordinates": {
+        "lat": 29.383069700147686,
+        "lng": 78.66203184042134
+      }
+    },
+    "nirf_rank": 202,
+    "naac_grade": "A",
+    "courses_offered": [
+      "ECE",
+      "EEE",
+      "CSE",
+      "Mech",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 55344,
+      "ECE_general": 32155
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 17,
+    "placement_rate_pct": 68,
+    "fees_per_year_inr": 182432,
+    "website": "https://margaoit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c153",
+    "name": "Karimnagar Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Karimnagar",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 21.725956819652204,
+        "lng": 82.09758125773612
+      }
+    },
+    "nirf_rank": 156,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "IT",
+      "EEE",
+      "ECE",
+      "Aerospace",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 39692,
+      "ECE_general": 45549
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 76,
+    "fees_per_year_inr": 40000,
+    "website": "https://karimnagarit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c154",
+    "name": "Visakhapatnam Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 29.343179515771197,
+        "lng": 81.71722735932653
+      }
+    },
+    "nirf_rank": 187,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Aerospace",
+      "Chemical",
+      "Metallurgy",
+      "EEE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 23205,
+      "ECE_general": 48275
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 23,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 217521,
+    "website": "https://visakhapatnamit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c155",
+    "name": "Hamirpur Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "coordinates": {
+        "lat": 27.6535810848883,
+        "lng": 80.91385540519104
+      }
+    },
+    "nirf_rank": 197,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "Chemical",
+      "Biotech",
+      "Mech",
+      "ECE",
+      "Aerospace",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 43459,
+      "ECE_general": 62452
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 73,
+    "fees_per_year_inr": 40000,
+    "website": "https://hamirpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c156",
+    "name": "Hyderabad Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 24.91324552937663,
+        "lng": 82.02079004252589
+      }
+    },
+    "nirf_rank": 236,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "IT",
+      "Civil",
+      "Chemical",
+      "Biotech",
+      "Metallurgy",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 46626,
+      "ECE_general": 47321
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 69,
+    "fees_per_year_inr": 40000,
+    "website": "https://hyderabadit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c157",
+    "name": "Silchar Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Silchar",
+      "state": "Assam",
+      "coordinates": {
+        "lat": 29.102285137662957,
+        "lng": 80.24240953898021
+      }
+    },
+    "nirf_rank": 241,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Mech",
+      "EEE",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 25728,
+      "ECE_general": 77006
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 13,
+    "placement_rate_pct": 83,
+    "fees_per_year_inr": 192170,
+    "website": "https://silcharit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c158",
+    "name": "Belagavi Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Belagavi",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 21.243803745483163,
+        "lng": 75.23041234945384
+      }
+    },
+    "nirf_rank": 153,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Chemical",
+      "IT",
+      "Mech",
+      "EEE",
+      "Civil",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 21762,
+      "ECE_general": 77101
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 11,
+    "placement_rate_pct": 65,
+    "fees_per_year_inr": 161214,
+    "website": "https://belagaviit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c159",
+    "name": "Chandigarh Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Chandigarh",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 20.917278987469125,
+        "lng": 80.10492419681854
+      }
+    },
+    "nirf_rank": 188,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "CSE",
+      "Mech",
+      "IT",
+      "ECE",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 35935,
+      "ECE_general": 65152
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 80,
+    "fees_per_year_inr": 175101,
+    "website": "https://chandigarhit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c160",
+    "name": "Rajkot Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 23.63847790484855,
+        "lng": 80.52878549120916
+      }
+    },
+    "nirf_rank": 182,
+    "naac_grade": "A",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 53524,
+      "ECE_general": 30322
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 147961,
+    "website": "https://rajkotit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c161",
+    "name": "Jalandhar Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 29.466832863973686,
+        "lng": 78.31202433517613
+      }
+    },
+    "nirf_rank": 157,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Metallurgy",
+      "ECE",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 38392,
+      "ECE_general": 58978
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 203529,
+    "website": "https://jalandharit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c162",
+    "name": "Jaipur Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "coordinates": {
+        "lat": 29.254122127181226,
+        "lng": 81.18320323663423
+      }
+    },
+    "nirf_rank": 192,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Mech",
+      "EEE",
+      "Biotech",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 20154,
+      "ECE_general": 58305
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 21,
+    "placement_rate_pct": 68,
+    "fees_per_year_inr": 144856,
+    "website": "https://jaipurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c163",
+    "name": "Ahmedabad Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 24.249672243222193,
+        "lng": 81.45966863763061
+      }
+    },
+    "nirf_rank": 237,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Civil",
+      "IT",
+      "ECE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 36280,
+      "ECE_general": 33005
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 81,
+    "fees_per_year_inr": 40000,
+    "website": "https://ahmedabadit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c164",
+    "name": "Gwalior Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Gwalior",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 28.71205763376885,
+        "lng": 81.84948029500968
+      }
+    },
+    "nirf_rank": 158,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "EEE",
+      "Metallurgy",
+      "Aerospace",
+      "CSE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 25139,
+      "ECE_general": 67205
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 15,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 219061,
+    "website": "https://gwaliorit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c165",
+    "name": "Delhi Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 22.734487499889205,
+        "lng": 78.4298166164047
+      }
+    },
+    "nirf_rank": 160,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Civil",
+      "Biotech",
+      "EEE",
+      "ECE",
+      "IT",
+      "CSE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 63927,
+      "ECE_general": 43113
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 15,
+    "placement_rate_pct": 88,
+    "fees_per_year_inr": 171552,
+    "website": "https://delhiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c166",
+    "name": "Dhanbad Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "coordinates": {
+        "lat": 26.721657037012427,
+        "lng": 78.80592995731028
+      }
+    },
+    "nirf_rank": 182,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "ECE",
+      "IT",
+      "Chemical",
+      "CSE",
+      "Metallurgy",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 61846,
+      "ECE_general": 79227
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 24,
+    "placement_rate_pct": 79,
+    "fees_per_year_inr": 187811,
+    "website": "https://dhanbadit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c167",
+    "name": "Mumbai Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 22.616385180092855,
+        "lng": 75.72331538184271
+      }
+    },
+    "nirf_rank": 176,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Chemical",
+      "Civil",
+      "Mech",
+      "EEE",
+      "CSE",
+      "IT",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 57864,
+      "ECE_general": 41161
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 134795,
+    "website": "https://mumbaiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c168",
+    "name": "Patna Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Patna",
+      "state": "Bihar",
+      "coordinates": {
+        "lat": 25.30937679574781,
+        "lng": 83.2493627012769
+      }
+    },
+    "nirf_rank": 197,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Chemical",
+      "CSE",
+      "Mech",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 27394,
+      "ECE_general": 38611
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 87,
+    "fees_per_year_inr": 211208,
+    "website": "https://patnait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c169",
+    "name": "Bilaspur Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Bilaspur",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 28.206933163699322,
+        "lng": 75.66982437207217
+      }
+    },
+    "nirf_rank": 248,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Chemical",
+      "CSE",
+      "Mech",
+      "ECE",
+      "EEE",
+      "Biotech",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 32055,
+      "ECE_general": 64276
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 16,
+    "placement_rate_pct": 87,
+    "fees_per_year_inr": 166831,
+    "website": "https://bilaspurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c170",
+    "name": "Bhopal Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 20.170407628546023,
+        "lng": 79.71213757819069
+      }
+    },
+    "nirf_rank": 155,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "EEE",
+      "ECE",
+      "Aerospace",
+      "Mech",
+      "CSE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 50680,
+      "ECE_general": 41453
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 23,
+    "placement_rate_pct": 81,
+    "fees_per_year_inr": 40000,
+    "website": "https://bhopalit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c171",
+    "name": "Cuttack Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Cuttack",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 28.717868451687618,
+        "lng": 82.79679375109083
+      }
+    },
+    "nirf_rank": 160,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Metallurgy",
+      "Chemical",
+      "IT"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 27798,
+      "ECE_general": 47803
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 21,
+    "placement_rate_pct": 66,
+    "fees_per_year_inr": 129695,
+    "website": "https://cuttackit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c172",
+    "name": "Cuttack Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Cuttack",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 28.54211373383024,
+        "lng": 75.76975959749562
+      }
+    },
+    "nirf_rank": 181,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Metallurgy",
+      "Chemical",
+      "ECE",
+      "IT",
+      "Civil",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 23840,
+      "ECE_general": 41626
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 13,
+    "placement_rate_pct": 75,
+    "fees_per_year_inr": 199223,
+    "website": "https://cuttackit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c173",
+    "name": "Nizamabad Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Nizamabad",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 20.60329157138218,
+        "lng": 82.7204283692862
+      }
+    },
+    "nirf_rank": 217,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Aerospace",
+      "Biotech",
+      "EEE",
+      "Chemical",
+      "Mech",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 38485,
+      "ECE_general": 77532
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 71,
+    "fees_per_year_inr": 218452,
+    "website": "https://nizamabadit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c174",
+    "name": "Gwalior Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Gwalior",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 28.181681101220832,
+        "lng": 76.00071337683924
+      }
+    },
+    "nirf_rank": 160,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Chemical",
+      "Mech",
+      "Biotech",
+      "IT",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 23740,
+      "ECE_general": 39089
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 13,
+    "placement_rate_pct": 89,
+    "fees_per_year_inr": 141879,
+    "website": "https://gwaliorit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c175",
+    "name": "Rourkela Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Rourkela",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 25.720138887410243,
+        "lng": 81.36954676982764
+      }
+    },
+    "nirf_rank": 189,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Metallurgy",
+      "Chemical",
+      "Aerospace",
+      "EEE",
+      "ECE",
+      "Civil",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 42674,
+      "ECE_general": 50303
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 60,
+    "fees_per_year_inr": 40000,
+    "website": "https://rourkelait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c176",
+    "name": "Hyderabad Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "coordinates": {
+        "lat": 24.355432207169727,
+        "lng": 80.6473933438616
+      }
+    },
+    "nirf_rank": 246,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Biotech",
+      "Aerospace",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 17908,
+      "ECE_general": 67081
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 74,
+    "fees_per_year_inr": 40000,
+    "website": "https://hyderabadit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c177",
+    "name": "Kozhikode Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Kozhikode",
+      "state": "Kerala",
+      "coordinates": {
+        "lat": 29.684761374852524,
+        "lng": 75.3075171226019
+      }
+    },
+    "nirf_rank": 200,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Biotech",
+      "Aerospace",
+      "CSE",
+      "Chemical",
+      "ECE",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 55559,
+      "ECE_general": 73506
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 83,
+    "fees_per_year_inr": 198857,
+    "website": "https://kozhikodeit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c178",
+    "name": "Thiruvananthapuram Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "coordinates": {
+        "lat": 22.736125300598463,
+        "lng": 84.87570466420857
+      }
+    },
+    "nirf_rank": 179,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Aerospace",
+      "EEE",
+      "Biotech",
+      "Civil",
+      "Mech",
+      "CSE",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 46370,
+      "ECE_general": 78178
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 66,
+    "fees_per_year_inr": 40000,
+    "website": "https://thiruvananthapuramit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c179",
+    "name": "Gurugram Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "coordinates": {
+        "lat": 22.380764372172003,
+        "lng": 77.44092090665626
+      }
+    },
+    "nirf_rank": 176,
+    "naac_grade": "A",
+    "courses_offered": [
+      "Mech",
+      "EEE",
+      "Aerospace",
+      "CSE",
+      "Chemical",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 21995,
+      "ECE_general": 48872
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 217312,
+    "website": "https://gurugramit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c180",
+    "name": "Delhi Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "coordinates": {
+        "lat": 22.089465116714184,
+        "lng": 81.51510400997975
+      }
+    },
+    "nirf_rank": 245,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "CSE",
+      "Mech",
+      "Chemical",
+      "EEE",
+      "IT",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 18335,
+      "ECE_general": 79617
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 19,
+    "placement_rate_pct": 61,
+    "fees_per_year_inr": 125714,
+    "website": "https://delhiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c181",
+    "name": "Prayagraj Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 22.22655181289055,
+        "lng": 77.27003448530957
+      }
+    },
+    "nirf_rank": 171,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "EEE",
+      "Civil",
+      "Mech",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 20849,
+      "ECE_general": 79696
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 11,
+    "placement_rate_pct": 69,
+    "fees_per_year_inr": 207404,
+    "website": "https://prayagrajit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c182",
+    "name": "Siliguri Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Siliguri",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 24.359986288953905,
+        "lng": 82.7404552702028
+      }
+    },
+    "nirf_rank": 196,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Civil",
+      "Biotech",
+      "Aerospace",
+      "ECE",
+      "CSE",
+      "IT"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 49647,
+      "ECE_general": 55261
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 23,
+    "placement_rate_pct": 88,
+    "fees_per_year_inr": 40000,
+    "website": "https://siliguriit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c183",
+    "name": "Mandi Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Mandi",
+      "state": "Himachal Pradesh",
+      "coordinates": {
+        "lat": 23.658102096822606,
+        "lng": 80.87632233966305
+      }
+    },
+    "nirf_rank": 169,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "IT",
+      "CSE",
+      "ECE",
+      "EEE",
+      "Aerospace",
+      "Biotech",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 59711,
+      "ECE_general": 72399
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 14,
+    "placement_rate_pct": 79,
+    "fees_per_year_inr": 166710,
+    "website": "https://mandiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c184",
+    "name": "Guwahati Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Guwahati",
+      "state": "Assam",
+      "coordinates": {
+        "lat": 24.241356365202037,
+        "lng": 77.8649877043033
+      }
+    },
+    "nirf_rank": 207,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "Civil",
+      "IT",
+      "CSE",
+      "ECE",
+      "Metallurgy",
+      "EEE",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 16759,
+      "ECE_general": 76141
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 20,
+    "placement_rate_pct": 76,
+    "fees_per_year_inr": 133916,
+    "website": "https://guwahatiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c185",
+    "name": "Hubballi Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Hubballi",
+      "state": "Karnataka",
+      "coordinates": {
+        "lat": 27.02878302453094,
+        "lng": 76.86127194821489
+      }
+    },
+    "nirf_rank": 244,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "EEE",
+      "Biotech",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 43011,
+      "ECE_general": 35013
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 17,
+    "placement_rate_pct": 82,
+    "fees_per_year_inr": 142510,
+    "website": "https://hubballiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c186",
+    "name": "Nagpur Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 24.865878845179928,
+        "lng": 79.12369609589523
+      }
+    },
+    "nirf_rank": 235,
+    "naac_grade": "A",
+    "courses_offered": [
+      "EEE",
+      "IT",
+      "Aerospace",
+      "Mech",
+      "Metallurgy",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 59221,
+      "ECE_general": 63686
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 17,
+    "placement_rate_pct": 72,
+    "fees_per_year_inr": 40000,
+    "website": "https://nagpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c187",
+    "name": "Aurangabad Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "coordinates": {
+        "lat": 22.32491071656582,
+        "lng": 83.12391196325916
+      }
+    },
+    "nirf_rank": 194,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "CSE",
+      "EEE",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 59434,
+      "ECE_general": 52417
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 17,
+    "placement_rate_pct": 60,
+    "fees_per_year_inr": 165274,
+    "website": "https://aurangabadit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c188",
+    "name": "Indore Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "coordinates": {
+        "lat": 28.793483120458852,
+        "lng": 76.00140019702536
+      }
+    },
+    "nirf_rank": 191,
+    "naac_grade": "A",
+    "courses_offered": [
+      "ECE",
+      "EEE",
+      "Civil",
+      "IT",
+      "CSE",
+      "Chemical",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 17645,
+      "ECE_general": 59215
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 12,
+    "placement_rate_pct": 65,
+    "fees_per_year_inr": 133424,
+    "website": "https://indoreit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c189",
+    "name": "Ludhiana Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 23.656895678278534,
+        "lng": 80.21021312714755
+      }
+    },
+    "nirf_rank": 249,
+    "naac_grade": "A",
+    "courses_offered": [
+      "IT",
+      "Aerospace",
+      "Biotech",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 22723,
+      "ECE_general": 68935
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 20,
+    "placement_rate_pct": 80,
+    "fees_per_year_inr": 211328,
+    "website": "https://ludhianait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c190",
+    "name": "Silchar Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Silchar",
+      "state": "Assam",
+      "coordinates": {
+        "lat": 21.73141808333571,
+        "lng": 83.92149968361537
+      }
+    },
+    "nirf_rank": 155,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "IT",
+      "Aerospace",
+      "CSE",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 55701,
+      "ECE_general": 59874
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 22,
+    "placement_rate_pct": 82,
+    "fees_per_year_inr": 156331,
+    "website": "https://silcharit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c191",
+    "name": "Bhilai Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Bhilai",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 28.75641184230714,
+        "lng": 79.82227045182566
+      }
+    },
+    "nirf_rank": 163,
+    "naac_grade": "A",
+    "courses_offered": [
+      "EEE",
+      "IT",
+      "ECE",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 32842,
+      "ECE_general": 58359
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 24,
+    "placement_rate_pct": 71,
+    "fees_per_year_inr": 40000,
+    "website": "https://bhilaiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c192",
+    "name": "Bhilai Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Bhilai",
+      "state": "Chhattisgarh",
+      "coordinates": {
+        "lat": 27.066140009479597,
+        "lng": 78.04474233064438
+      }
+    },
+    "nirf_rank": 222,
+    "naac_grade": "A",
+    "courses_offered": [
+      "EEE",
+      "Aerospace",
+      "Metallurgy",
+      "Biotech",
+      "IT",
+      "CSE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 26697,
+      "ECE_general": 47987
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 17,
+    "placement_rate_pct": 84,
+    "fees_per_year_inr": 40000,
+    "website": "https://bhilaiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c193",
+    "name": "Vellore Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 29.88059424960204,
+        "lng": 83.55056652527132
+      }
+    },
+    "nirf_rank": 182,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "ECE",
+      "Metallurgy",
+      "EEE",
+      "CSE",
+      "Civil",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 58475,
+      "ECE_general": 49718
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 10,
+    "placement_rate_pct": 88,
+    "fees_per_year_inr": 40000,
+    "website": "https://velloreit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c194",
+    "name": "Varanasi Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "coordinates": {
+        "lat": 21.748501393934742,
+        "lng": 79.66807279969443
+      }
+    },
+    "nirf_rank": 223,
+    "naac_grade": "A",
+    "courses_offered": [
+      "IT",
+      "Mech",
+      "ECE",
+      "Metallurgy",
+      "EEE",
+      "Chemical",
+      "Biotech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 55506,
+      "ECE_general": 55109
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 23,
+    "placement_rate_pct": 88,
+    "fees_per_year_inr": 40000,
+    "website": "https://varanasiit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c195",
+    "name": "Guntur Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Guntur",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 20.388751682936874,
+        "lng": 81.86261004367611
+      }
+    },
+    "nirf_rank": 157,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Metallurgy",
+      "EEE",
+      "CSE",
+      "Chemical",
+      "Mech",
+      "Civil"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 42846,
+      "ECE_general": 43687
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 16,
+    "placement_rate_pct": 76,
+    "fees_per_year_inr": 40000,
+    "website": "https://gunturit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c196",
+    "name": "Siliguri Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Siliguri",
+      "state": "West Bengal",
+      "coordinates": {
+        "lat": 20.63707767734613,
+        "lng": 78.70971189490061
+      }
+    },
+    "nirf_rank": 173,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Chemical",
+      "Civil",
+      "CSE",
+      "Mech",
+      "EEE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 32937,
+      "ECE_general": 47552
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 24,
+    "placement_rate_pct": 78,
+    "fees_per_year_inr": 166894,
+    "website": "https://siliguriit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c197",
+    "name": "Bhagalpur Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Bhagalpur",
+      "state": "Bihar",
+      "coordinates": {
+        "lat": 21.503356410952335,
+        "lng": 83.3776521304381
+      }
+    },
+    "nirf_rank": 195,
+    "naac_grade": "A",
+    "courses_offered": [
+      "IT",
+      "CSE",
+      "Metallurgy",
+      "EEE",
+      "Civil",
+      "Mech"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 24711,
+      "ECE_general": 49844
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 21,
+    "placement_rate_pct": 86,
+    "fees_per_year_inr": 40000,
+    "website": "https://bhagalpurit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c198",
+    "name": "Rourkela Institute of Technology",
+    "type": "Private",
+    "location": {
+      "city": "Rourkela",
+      "state": "Odisha",
+      "coordinates": {
+        "lat": 25.70224718907617,
+        "lng": 84.35329075484985
+      }
+    },
+    "nirf_rank": 190,
+    "naac_grade": "A",
+    "courses_offered": [
+      "EEE",
+      "Biotech",
+      "Aerospace",
+      "Chemical",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 46254,
+      "ECE_general": 61157
+    },
+    "avg_package_lpa": 5,
+    "highest_package_lpa": 18,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 188371,
+    "website": "https://rourkelait.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c199",
+    "name": "Coimbatore Institute of Technology",
+    "type": "Deemed",
+    "location": {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "coordinates": {
+        "lat": 26.49787156807045,
+        "lng": 76.7806287614263
+      }
+    },
+    "nirf_rank": 167,
+    "naac_grade": "B+",
+    "courses_offered": [
+      "Biotech",
+      "IT",
+      "CSE",
+      "ECE",
+      "Chemical"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 16491,
+      "ECE_general": 68366
+    },
+    "avg_package_lpa": 4,
+    "highest_package_lpa": 19,
+    "placement_rate_pct": 67,
+    "fees_per_year_inr": 153048,
+    "website": "https://coimbatoreit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c200",
+    "name": "Gandhinagar Institute of Technology",
+    "type": "State",
+    "location": {
+      "city": "Gandhinagar",
+      "state": "Gujarat",
+      "coordinates": {
+        "lat": 29.509612331385878,
+        "lng": 76.80682182245151
+      }
+    },
+    "nirf_rank": 210,
+    "naac_grade": "B++",
+    "courses_offered": [
+      "IT",
+      "Biotech",
+      "EEE",
+      "Aerospace",
+      "Metallurgy",
+      "ECE"
+    ],
+    "entrance_exams": [
+      "State CET",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 52297,
+      "ECE_general": 63592
+    },
+    "avg_package_lpa": 7,
+    "highest_package_lpa": 16,
+    "placement_rate_pct": 64,
+    "fees_per_year_inr": 40000,
+    "website": "https://gandhinagarit.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c201",
+    "name": "GITAM University",
+    "type": "Deemed",
+    "location": {
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "coordinates": {
+        "lat": 17.781,
+        "lng": 83.377
+      }
+    },
+    "nirf_rank": 67,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "Biotech",
+      "Aerospace"
+    ],
+    "entrance_exams": [
+      "GAT",
+      "JEE Main"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 12000,
+      "ECE_general": 25000
+    },
+    "avg_package_lpa": 6,
+    "highest_package_lpa": 46,
+    "placement_rate_pct": 85,
+    "fees_per_year_inr": 350000,
+    "website": "https://www.gitam.edu",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  },
+  {
+    "id": "c202",
+    "name": "IIT Ropar",
+    "type": "IIT",
+    "location": {
+      "city": "Rupnagar",
+      "state": "Punjab",
+      "coordinates": {
+        "lat": 30.975,
+        "lng": 76.527
+      }
+    },
+    "nirf_rank": 22,
+    "naac_grade": "A++",
+    "courses_offered": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "Chemical",
+      "Metallurgy"
+    ],
+    "entrance_exams": [
+      "JEE Advanced"
+    ],
+    "cutoff_2024": {
+      "CSE_general": 1800,
+      "ECE_general": 4500
+    },
+    "avg_package_lpa": 20,
+    "highest_package_lpa": 55,
+    "placement_rate_pct": 90,
+    "fees_per_year_inr": 250000,
+    "website": "https://www.iitrpr.ac.in",
+    "notable_alumni": [
+      "Various"
+    ],
+    "hostel_available": true,
+    "scholarship_available": true
+  }
+]
